@@ -1,4 +1,4 @@
-# IBM Full Stack Web Developer Professional Certification Course
+## si-calc-script
 
 This repo is dedicated to a coursera course on full stack web development professional certificate by IBM
 
